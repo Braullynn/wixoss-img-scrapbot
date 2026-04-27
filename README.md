@@ -41,4 +41,5 @@ npm start
 - `images/`: Pasta onde as cartas serão salvas.
 
 ---
-Desenvolvido para automatizar a coleção de imagens de Wixoss.
+Desenvolvido para automatizar a coleção de imagens de Wixoss
+para o jogo Webxoss.
