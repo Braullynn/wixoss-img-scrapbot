@@ -1,0 +1,19 @@
+# Dependências
+node_modules/
+
+# Imagens baixadas
+images/
+
+# Arquivos temporários e de rascunho
+scratch/
+.agents/
+
+# Documentação de planejamento/erros (solicitado pelo usuário)
+erros_e_solucoes.md
+infos.txt.txt
+proximos passos.txt
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
